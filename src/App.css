@@ -1,0 +1,41 @@
+.jumbotron {
+  background-color: #6ab04c;
+  border-radius: 0px;
+  padding: 150px 0px;
+}
+
+.jumbotron h1 {
+  color: whitesmoke;
+  font-size: 53px;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px #6d6c6c;
+}
+
+.jumbotron p {
+  color: #ffc107;
+  font-size: 21px;
+  font-weight: 900;
+  letter-spacing: 3px;
+}
+
+.brand-icon {
+  font-size: 100px;
+  color: #ffc107;
+}
+
+.form-control {
+
+  height: calc(1.5em + .75rem + 2px);
+  padding: 1.375rem 2.75rem;
+  border: 2px solid #ffc107;
+  border-radius: 0px;
+}
+
+.btn {
+
+  border: 1px solid transparent;
+  padding: 0.375rem 1.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0px;
+}
